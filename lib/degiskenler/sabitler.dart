@@ -16,5 +16,4 @@ void main(){
   const int sonuc =500;
   print(sonuc);
   // sonuc = 400;
-
 }

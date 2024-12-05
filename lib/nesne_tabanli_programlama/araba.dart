@@ -29,6 +29,4 @@ class Araba{
     print("Hız           : ${hiz}");
     print("Çalışıyor mu  : ${calisiyorMu}");
   }
-
-
 }

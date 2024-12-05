@@ -31,5 +31,4 @@ void main(){
   //Upcasting
   var s = Saray(kuleSayisi: 3, pencereSayisi: 100);
   Ev e = s;
-
 }

@@ -13,5 +13,4 @@ class ClassA implements MyInterface{
   String metod2() {
     return "Metod 2 çalıştı";
   }
-
 }

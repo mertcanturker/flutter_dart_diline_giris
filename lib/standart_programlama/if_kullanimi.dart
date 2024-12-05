@@ -32,5 +32,4 @@ void main(){
   }else{
     print("Sayı 9 veya 10 değildir.");
   }
-
 }

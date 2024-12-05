@@ -4,6 +4,4 @@ abstract class MyInterface{
   void metod1();
 
   String metod2();
-
-
 }

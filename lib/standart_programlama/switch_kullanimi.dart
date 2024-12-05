@@ -19,7 +19,4 @@ void main(){
     default: print("Böyle bir gün yok!");
     break;
   }
-
-
-
 }
